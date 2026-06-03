@@ -216,10 +216,13 @@ Plain text
 Patient Risk Categories:
 High Risk
 Medium Risk
-Low Risk <img width="560" height="413" alt="screen shot 1" src="https://github.com/user-attachments/assets/706d4b23-7295-4cac-a451-9f1d018c5358" />
-<img width="560" height="474" alt="screen shot 2" src="https://github.com/user-attachments/assets/75bc3b0d-654c-4e8b-acd1-52da3b7526c1" />
-<img width="552" height="413" alt="screen shot 3" src="https://github.com/user-attachments/assets/64c4a65f-81c8-445d-ac85-8feec71e6c01" />
-<img width="607" height="510" alt="screen shot 4" src="https://github.com/user-attachments/assets/f3b36e77-31f7-470e-89e4-18844092c24c" />
+Low Risk <img width="846" height="588" alt="py 5 1" src="https://github.com/user-attachments/assets/d8465773-ee1b-42a3-87b3-3dbc31e6aa45" />
+<img width="808" height="637" alt="py 2" src="https://github.com/user-attachments/assets/9960c030-9eae-4bc9-9cd9-cc9cca447053" />
+<img width="785" height="589" alt="py 3" src="https://github.com/user-attachments/assets/14fd8d5e-1464-4cfc-adc9-f49c45990e8d" />
+<img width="785" height="589" alt="py 4" src="https://github.com/user-attachments/assets/376f693a-4297-427a-b45f-b3ecc3cfce40" />
+
+
+
 
 
 
